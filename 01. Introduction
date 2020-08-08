@@ -1,0 +1,9 @@
+// we have seen linear(array, linkedlist) and non linear datastructures(tree)
+// trees are used to represent heirarchy
+// graph data structure allows connection from one node to any node
+// a graph is represented by a pair of sets
+// first set is a set of vertices
+// other set is a set of edges
+
+// there can be directed as well as undirected graphs
+// real example of undirected graph is a social network
