@@ -1,0 +1,10 @@
+// there are two ways to represent a graph 
+1. adjacency matrix
+2. adjacency list
+
+// it is a matrix of 0s and 1s
+// for undirected graph, the matrix is SYMMETRIC
+
+// HOW TO HANDLE VERTICES WITH ARBITRARY NAMES?
+
+we can use array of strings
