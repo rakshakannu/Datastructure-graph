@@ -2,9 +2,36 @@
 1. adjacency matrix
 2. adjacency list
 
+// ADJACENCY MATRIX
+
 // it is a matrix of 0s and 1s
 // for undirected graph, the matrix is SYMMETRIC
 
 // HOW TO HANDLE VERTICES WITH ARBITRARY NAMES?
 
 we can use array of strings
+
+// for a graph with v vertices, we need (v * v) space
+
+// OPERATIONS
+
+1. check if u and v are adjacent - theta(1)
+2. find all adjacent of a vertex - theta(v)
+3. find degree of u - theta(v)
+4. add/ remove an edge - theta(1)
+5. add/remove a vertext - theta(v square) - because we are changing the matrix size
+
+// PROBLEM WITH ADJACENCY MATRIX
+
+it is storing redundant information 
+
+// ADJACENCY LIST
+
+it takes less space
+and makes finding all adjacent of a vertex operation faster which is used in many algorithms
+
+it is represented using an array of lists.
+
+the lists are most popularly represented as:
+1. dynamic sized arrays
+2. linked lists
