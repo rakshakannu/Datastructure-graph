@@ -35,3 +35,8 @@ it is represented using an array of lists.
 the lists are most popularly represented as:
 1. dynamic sized arrays
 2. linked lists
+
+space required: undirected: theta(v+2*e)
+                  directed: theta(v+e)
+                  
+                  
