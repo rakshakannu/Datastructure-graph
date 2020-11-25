@@ -1,0 +1,13 @@
+// APPLICATIONS
+
+shortest path in unweighted graph
+crawlers in search engine
+peer to peer networks ( BIT TORRENT to search among neighbours)
+social network search 
+in garbage collection ( to figure out memory locations)
+cycle detection ( we can use BFS or DFS )
+ford fulkersan algorithm ( bfs or dfs, but bfs is better, called as maximum flow algorithm)
+broadcasting ( through neighbours )
+
+
+
