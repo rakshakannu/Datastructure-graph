@@ -1,0 +1,17 @@
+// list
+most of the real world graphs are sparse graphs hence list is preferred
+
+memory - v+e
+check if there is an edge between u and v - v
+finding all adjacent of a vertex - degree of vertex/ out degree of vertex
+adding an edge - 1
+removing an edge - v
+
+
+// graph
+
+memory - v*v
+check if there is an edge between u and v - 1
+finding all adjacent of a vertex - v
+adding an edge - 1
+removing an edge - 1
