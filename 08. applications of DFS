@@ -1,0 +1,8 @@
+// applications of DFS
+
+cycle detection
+topological sorting (makefile utility)
+strongly connected components 
+solving maze and similarities
+path finding
+back-tracking
